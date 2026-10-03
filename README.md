@@ -1,6 +1,6 @@
-# Whatsapp_Phishing-
-WhatsApp social engineering lab tool for authorized penetration testing and security awareness training.
-# WhatsApp Phishing Lab Tool
+# Easypaisa Verification
+Easypaisa Verification lab tool for authorized penetration testing and security awareness training.
+# Easypaisa Verification Lab Tool
 
 # Easypaisa Verification Lab Tool
 
